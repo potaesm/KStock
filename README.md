@@ -8,7 +8,7 @@ The Open Source Inventory Management System (V.1.0.4)
 ## Step
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
 2. Clone or downlaod this repository
-3. Extact kstock.zip and move **kstock** folder to **htdocs/**
+3. Extact kstock.zip and move **kstock** folder to **X://xampp/htdocs/**
 4. Run XAMPP and start Apache and MySQL
 5. Open browser and go to [localhost](http://localhost)
 6. Click on [phpMyAdmin](http://localhost/phpmyadmin) and create new database name **kstock**
